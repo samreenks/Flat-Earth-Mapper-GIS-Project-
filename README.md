@@ -82,6 +82,6 @@ Traveling Courier Problem: A variation of the traveling salesman problem
 - Simulated Annealing
 - Genetic
 
-<img src="/images/algorithmcomparison.gif" width="600" />   
+<img src="images/algorithmcomparison.png" width="600" />   
 
 Please view the [Final Presentation](https://docs.google.com/presentation/d/11WJMvbJV8ZbVeGpBRn7vFChItOBLK3KEiFzHdZBCNNg/edit?usp=sharing) for more information. 
