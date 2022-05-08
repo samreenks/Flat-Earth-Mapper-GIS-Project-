@@ -24,7 +24,7 @@ This project was created for ECE297, the Software Design and Communication cours
 ### 2. Dark Mode
 Light Mode                                               | Dark Mode
 :------------------------------------------------------:|:---------------------------------:
-<img src="/images/lightmode.png" width="600" />          | <img src="/images/darkmode.png" width="600" />
+<img src="/images/lightmode.png" width="300" />          | <img src="/images/darkmode.png" width="300" />
 
 ### 3. Info Button
 - Used to help navigate the map
@@ -82,6 +82,6 @@ Traveling Courier Problem: A variation of the traveling salesman problem
 - Simulated Annealing
 - Genetic
 
-Please view the Final Presentation for more information. 
+<img src="/images/algorithmcomparison.gif" width="600" />   
 
-
+Please view the [Final Presentation](https://docs.google.com/presentation/d/11WJMvbJV8ZbVeGpBRn7vFChItOBLK3KEiFzHdZBCNNg/edit?usp=sharing) for more information. 
